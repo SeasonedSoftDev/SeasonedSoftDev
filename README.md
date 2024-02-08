@@ -1,4 +1,5 @@
 <h1>Hi, 😊</h1>
+  <h2>I appreciate you consider me 🌹</h2>
   <h2>
     <span>If you'd need, please visit my </span>
     <a href="https://seasonedsoftdev.github.io" style="color:#f36a5a;">Portfolio</a>
