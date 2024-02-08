@@ -6,7 +6,7 @@
   </h2>
 
   <h2>Here, I'm sharing my thoughts on software development based on my personal experience.</h2>
-  <h4>✔ The Profound expertise utilizing <b>C++/C#</b> in development of Object-Oriented Programming (OOP) for 2+ years, gave me the ability to get familiar with diverse programming languages, libraries, frameworks, and platforms  in a short period. This hand-on proficiency has been cultivated over 10+ years that's why I can navigate through various software fields with adeptness and ease.</h4>
+  <h4>✔ The Profound expertise utilizing C++/C# in development of Object-Oriented Programming (OOP) for 2+ years, gave me the ability to get familiar with diverse programming languages, libraries, frameworks, and platforms  in a short period. This hand-on proficiency has been cultivated over 10+ years that's why I can navigate through various software fields with adeptness and ease.</h4>
 
   <h2>My skills are:</h2>
   <table align="center">
