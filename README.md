@@ -1,9 +1,9 @@
 <h1>Hi, 😊</h1>
-  <h2>I appreciate you consider me 🌹</h2>
-  <h2>
+  <h3>I appreciate you consider me 🌹</h2>
+  <h3>
     <span>If you'd need, please visit my </span>
     <a href="https://seasonedsoftdev.github.io" style="color:#f36a5a;">Portfolio</a>
-  </h2>
+  </h3>
 
   <h3>The Profound expertise utilizing C++/C# in development of Object-Oriented Programming (OOP) for 2+ years, gave me the ability to get familiar with diverse programming languages, libraries, frameworks, and platforms  in a short period. This hand-on proficiency has been cultivated over 10+ years that's why I can navigate through various software fields with adeptness and ease.</h3>
 
