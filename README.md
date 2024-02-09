@@ -169,11 +169,11 @@
   <h2>Experienced software senior/lead engineer with 10+ years</h2> 
   <h3>in development of</h3>
   <ul style="font-size: 20px;">
-    <li>AI engine</li>
-    <li>Mobile App</li>
+    <li>Integrating AI into Application</li>
+    <li>Mobile Application</li>
     <li>Full-stack Web</li>
     <li>SMART CONTRACT & Dapp</li>
-    <li>Cross-platform App</li>
+    <li>Cross-platform Application</li>
   </ul>
   <h3>as role of</h3>
   <ul>
@@ -193,4 +193,5 @@
     <li>Go/GoLang</li>
     <li>Java</li>
     <li>Wordpress/Shopify</li>
+    <li>Unity/Unearl</li>
   </ul>
