@@ -102,8 +102,8 @@
         <br>TensorFlow
       </td>
       <td align="center" width="80">
-        <img src="https://cdn2.iconfinder.com/data/icons/clouds-and-servers/512/Clouds_Servers-18-512.png" alt="icon" width="50" height="50" />
-        <br>Objective C
+        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/chatgpt-icon.png" alt="icon" width="50" height="50" />
+        <br>ChatGPT 3/4
       </td>
       <td align="center" width="80">
         <img src="https://seeklogo.com/images/S/swift-logo-7927855EB5-seeklogo.com.png" alt="icon" width="50" height="50" />
