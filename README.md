@@ -9,6 +9,8 @@
   <h4>✔ The Profound expertise utilizing C++/C# in development of Object-Oriented Programming (OOP) for 2+ years, gave me the ability to get familiar with diverse programming languages, libraries, frameworks, and platforms  in a short period. This hand-on proficiency has been cultivated over 10+ years that's why I can navigate through various software fields with adeptness and ease.</h4>
 
   <h4>✔ First my expertise is in integrating AI solutions into several Application and services. In this field, I mainly use Python language with its several frameworks such as TensorFlow, PyTorch and Keras. Sometimes, as a skillful C++/C# expert I also utilise OpenCV.</h4>
+  
+  <h4>✔ Afterward, I've had multiple opportunities to contribute as a web front-end developer, allowing me to sharpen my skills with recent JavaScript/Typescript libraries and frameworks like React/Next.js, Vuex/Nuxt.js, and Svelte. Additionally, my experience extends to full-stack development, where I've become proficient with various frameworks such as Django, MERN, and Laravel.</h4>
 
   <h2>My experience is in utilizing:</h2>
   <table align="center">
