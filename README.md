@@ -12,6 +12,8 @@
   
   <h4>✔ Afterward, I've had multiple opportunities to contribute as a web front-end developer, allowing me to sharpen my skills with recent JavaScript/Typescript libraries and frameworks like React/Next.js, Vuex/Nuxt.js, and Svelte. Additionally, my experience extends to full-stack development, where I've become proficient with various frameworks such as Django, MERN, and Laravel.</h4>
 
+  <h4>✔ Next I also have experience developing desktop applications, initially utilizing C++/C# within the Windows SDK framework. However, in response to industry trends, I transitioned to using the Electron JavaScript framework for cross-platform development. Additionally, I am even proficient in working with environments such as QT for desktop application development.</h4>
+
   <h2>My experience is in utilizing:</h2>
   <table align="center">
     <tr>
