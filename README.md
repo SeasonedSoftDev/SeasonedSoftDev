@@ -16,6 +16,8 @@
 
   <h4>🥇 Over the past 4 years, I have immersed myself in the development of ✔SMART CONTRACTs and ✔blockchain technologies, ranging from ✔NFT minting and ✔marketplace creation to the establishment of ✔DeFi protocols, ✔ICO platforms, decentralized exchanges(✔DEXs), and decentralized autonomous organizations(✔DAOs). Despite the rapidly evolving nature of these technologies, I have swiftly acquired proficiency in blockchain infrastructure and the intricacies of SMART CONTRACT development, and mastered contract languages  ✔Solidity/Rust/Plutu and its frameworks ✔Solidity/Sol/Web3/Ether.js in less than 4 months. This proficiency has enabled me to successfully deploy 8+ blockchain services across ✔Ethereum, ✔Solana, ✔Tron and ✔Kardano blockchain networks, showcasing my adaptability and expertise in this field.</h4>
 
+  <h4>🥇 In my previous role, I contributed 3 times as a team member to ✔2/3D game development using ✔Unity and ✔Unreal Engine, where I honed my skills in ✔real-time data transmission via ✔TCP/UDP protocols, ✔3D modeling, ✔animation/avatar creation, ✔thread management, and developing backend for ✔real-time game control systems.</h4>
+
   <h2>My experience is in utilizing:</h2>
   <table align="center">
     <tr>
