@@ -181,7 +181,7 @@
     <li>Mobile Application</li>
     <li>Full-stack Web</li>
     <li>SMART CONTRACT & Dapp</li>
-    <li>Cross-platform Application</li>
+    <li>2/3D Game</li>
   </ul>
   <h3>as role of</h3>
   <ul>
