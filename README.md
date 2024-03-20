@@ -1,7 +1,7 @@
 <h1>Hi, 😊</h1>
   <h3>I appreciate you consider me 🌹</h3>
   <h2>
-    <span>If you'd know about me in detail, please visit my </span>
+    <span>If you'd like to know in detail, please visit my </span>
     <a href="https://seasonedsoftdev.github.io" style="color:#f36a5a;">Portfolio</a>
   </h2>
 
